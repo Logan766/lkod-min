@@ -1,4 +1,4 @@
-#testovaci commit a push 3
+#testovaci commit a push 4
 
 
 # Minimalistický lokální katalog otevřených dat
