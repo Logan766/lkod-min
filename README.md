@@ -1,4 +1,4 @@
-#testovaci commit a push 36
+#testovaci commit a push 37
 
 # Minimalistický lokální katalog otevřených dat
 Toto je minimalistická verze lokálního katalogu otevřených dat, která celá běží na GitHubu, a tedy zdarma.
